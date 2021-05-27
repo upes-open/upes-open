@@ -1,9 +1,10 @@
 # UPES-OPEN
-Welcome to the Github presence of the **UPES-OPEN** community.
-
+Welcome to the Github presence of the **UPES-OPEN** community.<br><br>
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) &ensp;&ensp;&ensp;[![Generic badge](https://img.shields.io/badge/License-GNU-<green>.svg)](https://shields.io/) &ensp;&ensp;&ensp; [![Generic badge](https://img.shields.io/badge/Contribute-Collaborate-blue.svg)](https://shields.io/)
+****
 
 ## Who are we?
-* We are a community of like-minded developers who are committed towards promotion and adaptation of **open source software**. Open source is made by people just like you. Learn how to contribute, launch a new project, and build a healthy community of contributors with us. 🤝
+* We are a community of like-minded developers who are committed towards promotion and adaptation of **open source software**. Open source is made by people just like you. Learn how to contribute, launch a new project, and build a healthy community of contributors with us.:heartpulse: 🤝
 * In February 1998, the open-source movement was adopted, formalized, and spearheaded by the [Open Source Initiative](https://en.wikipedia.org/wiki/Open_Source_Initiative) (OSI), an organization formed to market software "as something more amenable to commercial business use" The OSI owns the trademark ["Open Source"](https://en.wikipedia.org/wiki/Open_source). The main tool they adopted for this was [The Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition). We as an organisation abide by standards set by the OSI.
 
 ## Why Open Source?
@@ -34,5 +35,7 @@ We proudly present to you the projects that the Open community has been working 
 * An application that enables you to get access to medical facilities in college at any point in time. It will show you the list of available doctors 👨‍⚕️ in real-time and you can register yourself for the appointment. Sounds incredible right? Check out [**AUTO INFORMARY**](https://github.com/upes-open/Auto-Infirmary) for more information.
 * [**OPEN REGISTRATION**](https://github.com/upes-open/Open-Registrations-System) is a semi-automated registration system for external members at OPEN. It uses ReactJS and Firebase. It contains a dashboard which requires valid user login and e-mail verification. The portal asks for user's general information and social media links along with their University name.
 
-## Contact
-Contact us at our mail *upesopen@gmail.com*. We'll be thrilled to hear from you.
+## Contact :telephone_receiver:
+Contact us at our mail *upesopen@gmail.com*. We'll be thrilled to hear from you.<br>
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) &ensp;&ensp;[![Generic badge](https://img.shields.io/badge/Thanks-blue.svg)](https://shields.io/)
+*****
