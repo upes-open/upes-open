@@ -16,10 +16,13 @@ Welcome to the Github presence of the **UPES-OPEN** community.<br><br>
 * Globalization of Market.
 
 ## Our Mission 💪
-*We at Upes-Open community aim to :*
-* Promote and protect Open Source Software.
-* Enrich the Education sector with innovative ideas.
-* Provide solutions for the betterment of society.
+
+* **AWARE :**
+&ensp; **_We aim at spreading awareness about the advantages of using an open source software over conventional proprietary software._**
+* **ADOPT :**
+&ensp;**_Spreading awareness is futile until and unless we motivate people to adopt the prevailing open source softwares in their work environment._**
+* **CONTRIBUTE :**
+&ensp;**_The whole concept of Open source revolves around the community which uses it and contributing to the community is always a matter of prestige._**
 
 <!--- ## Collaborators
 Apart from the OPEN community as a whole, we have been offered support from the following esteemed organisations:
